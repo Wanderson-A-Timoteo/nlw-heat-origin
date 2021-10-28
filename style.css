@@ -1,0 +1,22 @@
+html, body{
+  height: 100%;
+}
+body {
+  display: grid;
+  place-items: center;
+  background-color: rgb(200, 235, 223);
+}
+
+main{
+  background: url(images/Background.svg);
+  width: 375px;
+  height: 812px;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+a {
+  color: lightgray;
+  text-decoration: none;
+}
