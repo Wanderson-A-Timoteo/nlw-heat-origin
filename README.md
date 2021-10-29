@@ -18,9 +18,13 @@
 </p>
 
 <br>
-
+<!-- 
 <p align="center">
   <img alt="Chachá NLW Heat" src=".github/nlw-heat-dowhile2021.png" width="100%">
+</p> -->
+
+<p align="center">
+  <img alt="Chachá NLW Heat" src=".github/WandersonTimoteo.gif" width="100%">
 </p>
 
 ---
