@@ -18,14 +18,19 @@
 </p>
 
 <br>
-<!-- 
-<p align="center">
-  <img alt="Chachá NLW Heat" src=".github/nlw-heat-dowhile2021.png" width="100%">
-</p> -->
+
+## Prévia vizualização do Crachá Virtual DoWhile 2021
 
 <p align="center">
-  <img alt="Chachá NLW Heat" src=".github/WandersonTimoteo.gif" width="100%">
+    <img alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" src="https://github.com/Wanderson-A-Timoteo/nlw-heat-origin/blob/main/.gitbub/nlw-heat.png?raw=true" />
 </p>
+
+<br>
+
+<p align="center">
+    <img alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" src="https://github.com/Wanderson-A-Timoteo/nlw-heat-origin/blob/main/.gitbub/WandersonTimoteo.gif?raw=true" />
+</p>
+
 
 ---
 
@@ -84,10 +89,11 @@ Feito com ♥ by
 
 ## Agradecimentos:
 
-<h1 align="center">
-    <img src=".github/nlw-heat-dowhile2021.png" alt="NLW Heat - DoWhile 2021" title="NLW Heat - DoWhile 2021" />
-</h1>
+
+<p align="center">
+    <img width="300" height="200" alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" src="https://github.com/Wanderson-A-Timoteo/nlw-heat-origin/blob/main/.gitbub/nlw-heat-dowhile2021.png?raw=true" />
+</p>
 
 - Projeto desenvolvido durante a [NLW Heat](https://).
 
-- Agradecimento a [Mayk Brito](https://github.com/maykbrito) e [Mayk Brito](https://github.com/jakeliny) por compartilhar conteúdo relevante e com qualidade de ensino.
+- Agradecimento a [Mayk Brito](https://github.com/maykbrito) e [Jakeliny](https://github.com/jakeliny) por compartilhar conteúdo relevante e com qualidade de ensino.
