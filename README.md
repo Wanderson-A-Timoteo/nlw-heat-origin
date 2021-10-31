@@ -25,14 +25,21 @@
 
 <br>
 
+### Desktop
+
 <p align="center">
-    <img alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" src="https://github.com/Wanderson-A-Timoteo/nlw-heat-origin/blob/main/.gitbub/nlw-heat.png?raw=true" />
+    <img alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" 
+    src="https://github.com/Wanderson-A-Timoteo/nlw-heat-origin/blob/main/.gitbub/desktop.PNG?raw=true" />
 </p>
 
 <br>
 
+### Mobile
+
 <p align="center">
-    <img alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" src="https://github.com/Wanderson-A-Timoteo/nlw-heat-origin/blob/main/.gitbub/WandersonTimoteo.gif?raw=true" />
+    <img width="200" heigth="300"
+    alt="Crachá Virtual DoWhile 2021" title="Crachá Virtual DoWhile 2021" 
+    src="https://github.com/Wanderson-A-Timoteo/nlw-heat-origin/blob/main/.gitbub/mobile.PNG?raw=true" />
 </p>
 
 <br>
