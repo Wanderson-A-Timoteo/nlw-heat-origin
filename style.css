@@ -15,10 +15,11 @@ body {
 body {
   display: grid;
   place-items: center;
+  background-color: rgb(20, 19, 19);
 }
 
 main {
-  background: url(images/background.svg) no-repeat center/cover;
+  background: url(images/background.svg) no-repeat center;
   width: 100vw;
   min-height: 812px;
   height: 100vh;
